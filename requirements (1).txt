@@ -1,5 +1,0 @@
-streamlit
-pymupdf
-pandas
-scikit-learn
-sentence-transformers
